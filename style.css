@@ -1,0 +1,467 @@
+*{box-sizing: border-box;
+
+
+}
+
+body{
+    width: 98%;
+    min-height: 500px;
+    margin: auto;
+}
+
+
+.container .navigation header{
+    width: 100%;
+    font-size: 18px;
+    text-decoration: none;
+   list-style-type: none;
+   background-color: white;
+   height: 70px;
+   padding-top: 10px;
+}
+.container .navigation li{
+    list-style-type: none;
+    text-decoration: none;
+  color: black;
+  
+}
+
+
+.container .navigation{
+    width: 100%;
+    height: 50px;
+}
+.navigation li{
+ width: 120px;
+ height: 90%;
+ display: inline-block;
+ vertical-align: top;
+ text-align: center;
+ margin-left: 10px;
+ 
+
+ }
+.navigation li a{
+    list-style-type: none;
+    color: black;
+    text-decoration: none;
+    list-style: square;
+  
+}
+.navigation i{
+   margin-left: 10px;
+   padding-top: 9px;
+
+}
+
+.navigation span{
+    margin-left: 150px;
+}
+
+.header2 p{
+    background-color: rgb(0, 132, 255);
+   
+width: 100%;
+height: 50px;
+margin-top: -10px;
+text-align: center;
+padding: 10px;
+color: white;
+font-size: 20px;
+}
+    
+.bag{
+    margin-top: -20px;
+    position: relative;
+    text-align: center;
+
+}
+.bottom-right{
+    position: absolute;
+    bottom: 378px;
+    right: 296px;
+}
+
+.bottom-right p{
+font-size: 18px;
+line-height: 10px;
+}
+.bottom-right input{
+    background-color: black;
+    color: beige;
+    text-align: center;
+    height: 35px;
+    margin-left: -250px;
+}
+
+.box{
+    width: 100%;
+    height: 200px;
+    padding: 20px;
+}
+.box1{
+    width: 19%;
+    height: 120px;
+    display: inline-block;
+    margin-left: 25px;
+}
+.box1 img{
+    margin-left: 90px;
+}
+
+.box2{
+    width: 19%;
+    height: 120px;
+    display: inline-block;
+}
+
+
+.box2 img{
+    margin-left: 90px;
+   
+}
+
+.box3{
+    width: 19%;
+    height: 120px;
+    display: inline-block;
+}
+
+
+
+.box3 img{
+    margin-left: 90px;
+}
+.box4{
+    width: 19%;
+    height: 120px;
+    display: inline-block;
+}
+
+
+.box4 img{
+    margin-left: 90px;
+}
+
+.box5{
+    width: 19%;
+    height: 120px;
+    display: inline-block;
+}
+
+.box5 img{
+    margin-left: 90px;
+}
+.box p{
+    text-align: center;
+}
+
+
+.car{
+    width: 100%;
+    height: 420px;
+  
+
+}
+.car span{
+    color: blue;
+}
+
+.car1{
+    width: 45%;
+    height: 420px;
+    display: inline-block;
+   
+    margin-left: 50px;
+}
+
+.car1 img{
+width: 100%;
+height: 270px;
+}
+
+.car2{
+    width: 45%;
+    height: 420px;
+    display: inline-block;
+   
+    margin-left: 50px;
+}
+
+.car2 img{
+    width: 100%;
+    height: 270px;
+}
+
+
+
+
+
+.bell{
+    width: 100%;
+    height: 600px;
+  
+margin-top: 50px;
+}
+.bell span{
+    color: blue;
+}
+
+.bell1{
+    width: 45%;
+    height: 420px;
+    display: inline-block;
+   
+    margin-left: 50px;
+}
+
+.bell1 img{
+width: 100%;
+height: 270px;
+}
+
+.bell2{
+    width: 45%;
+    height: 420px;
+    display: inline-block;
+   
+    margin-left: 50px;
+}
+
+.bell2 img{
+    width: 100%;
+    height: 270px;
+}
+
+
+   
+.you{
+    margin-top: 50px;
+    position: relative;
+    text-align: center;
+
+}
+.bottom-left{
+    position: absolute;
+    bottom: 378px;
+    margin-left: 50px;
+}
+
+.bottom-left p{
+font-size: 18px;
+line-height: 10px;
+}
+.bottom-left input{
+    background-color: black;
+    color: beige;
+    text-align: center;
+    height: 35px;
+    margin-left: -250px;
+}
+
+
+
+.cup{
+    width: 100%;
+    height: 600px;
+  
+margin-top: 50px;
+}
+.cup span{
+    color: blue;
+}
+
+.cup1{
+    width: 45%;
+    height: 420px;
+    display: inline-block;
+   
+    margin-left: 50px;
+}
+
+.cup1 img{
+width: 100%;
+height: 270px;
+}
+
+.cup2{
+    width: 45%;
+    height: 420px;
+    display: inline-block;
+   
+    margin-left: 50px;
+}
+
+.cup2 img{
+    width: 100%;
+    height: 270px;
+}
+
+
+
+
+.tea{
+    width: 100%;
+    height: 600px;
+  
+margin-top: 50px;
+}
+.tea span{
+    color: blue;
+}
+
+.tea1{
+    width: 45%;
+    height: 420px;
+    display: inline-block;
+   
+    margin-left: 50px;
+}
+
+.tea1 img{
+width: 100%;
+height: 270px;
+}
+
+.tea2{
+    width: 45%;
+    height: 420px;
+    display: inline-block;
+   
+    margin-left: 50px;
+}
+
+.tea2 img{
+    width: 100%;
+    height: 270px;
+}
+
+.big{
+    margin-left: 30px;
+}
+
+.big i{
+    margin: 10px;
+    color: beige;
+}
+
+
+
+
+.circle-icon{
+    background-color: rgb(8, 31, 131);
+    padding: 7px;
+    border-radius: 5%;
+    }
+    
+    .circle-icon1{
+        background-color: rgb(58, 58, 240);
+        padding: 7px;
+        border-radius: 5%;
+        }
+    
+        .circle-icon2{
+            background-color:rgb(9, 186, 240);
+            padding: 7px;
+            border-radius: 5%;
+            }
+    
+            .circle-icon3{
+                background-color: rgba(241, 28, 28, 0.932);
+                padding: 7px;
+                border-radius: 5%;
+                }
+    
+                .circle-icon4{
+                    background-color:black;
+                    padding: 5px;
+                    border-radius: 50%;
+                    }
+
+
+
+                    .footer{
+                        margin-top: 50px;
+                        min-height: 500px;
+   width: 100%;
+                        background-color: rgb(219, 212, 212);
+                        display: inline-block;
+                        color: black;
+                        padding-left: 30px;
+                    }
+
+                    
+.container .footer section{
+    width: 23%;
+   height: 250px;
+   display: inline-block;
+   vertical-align: top;
+   text-align: left;
+   line-height: 30px;
+ }
+
+ .contaner .footer section p{
+    width: 10%;
+   min-height: 30px;
+   border: 2px solid #fff;
+   margin-left: 5px;
+ }
+
+ 
+ .footer2{
+    margin-top: -50px;
+    min-height: 500px;
+width: 100%;
+    background-color: rgb(219, 212, 212);
+    display: inline-block;
+    color: black;
+    padding-left: 30px;
+}
+
+
+.container .footer2 section{
+width: 23%;
+height: 250px;
+display: inline-block;
+vertical-align: top;
+text-align: left;
+line-height: 30px;
+}
+
+.contaner .footer2 section p{
+width: 10%;
+min-height: 30px;
+border: 2px solid #fff;
+margin-left: 5px;
+}
+
+.footer3{
+    width: 100%;
+    height: 80px;
+    background-color: rgb(219, 212, 212);
+}
+
+.footer3 li{
+    list-style-type: none;
+    text-decoration: none;
+  color: black;
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+  margin-left: 120px;
+  
+ 
+  }
+ .footer3 li a{
+     list-style-type: none;
+     color: black;
+     text-decoration: none;
+     list-style: square;
+     display: inline-block;
+     float: right;
+   
+ }
+ .footer3 i{
+    margin-left: 20px;
+    
+ }
